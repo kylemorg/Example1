@@ -1,7 +1,7 @@
 This is the git training repository or the 2017 DSPG program.
 
 Yay new line!
-
+Inserting this in the middle of the file.
 "Anotha one" -DJ Khaled
 
 Even more lines to be sure
