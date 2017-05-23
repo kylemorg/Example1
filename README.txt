@@ -6,3 +6,4 @@ Yay new line!
 
 Even more lines to be sure
 We are adding more lines now
+I added the output file
